@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @LukasErikss0n
+- 👋 Hi, I’m Lukas Eriksson currently studing Computer science at Luleå technical university
