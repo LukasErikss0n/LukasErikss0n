@@ -1,8 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=170&section=header&text=Hi,%20I'm%20Lukas%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Engineering%20student%20·%20Full-stack%20developer%20·%20Sweden&descSize=16&descAlignY=60" width="100%" />
 
 <p align="center">
-  <a href="https://matchcalendar.com"><img src="https://img.shields.io/badge/Live%20project-matchcalender.com-1f6feb?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://matchcalender.com"><img src="https://img.shields.io/badge/Live%20project-matchcalender.com-1f6feb?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
 </p>
 
 ## 🧑‍💻 About me
