@@ -19,7 +19,7 @@ I'm an engineering student at **Luleå University of Technology (LTU)** who like
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3> <img src="https://matchcalender.com/favicon.png" width="22" height="22" align="top" /> MatchCalender</h3>
+      <h3> <img src="https://matchcalender.com/logo-social.png" width="22" height="22" align="top" /> MatchCalender</h3>
       <p>Subscribe to live, always-updated calendars for your favourite football and hockey teams. Covers Allsvenskan, SHL, Premier League, IIHF, the 2026 World Cup and more.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
