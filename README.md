@@ -9,9 +9,9 @@
 
 I'm an engineering student at **Luleå University of Technology (LTU)** who likes building things that people actually use, from the database all the way to a screen on my desk.
 
-- 🔭 Building **[MatchCalendar](https://matchcalendar.com)**, a sports calendar that keeps your teams' fixtures synced to your phone
-- 🛠️ Currently working on an **ESP32-S3 desk display** that shows live scores from my own API
-- 📚 Studying control systems, signal processing, and probability & statistics
+- 🔭 Building **[MatchCalender](https://matchcalender.com)**, a sports calendar website that keeps your teams' fixtures synced to your phone via calendar apps
+- 🛠️ Currently working on **[MatchCalender](https://matchcalender.com)** and **ESP32-S3 desk display**
+- 📚 Studying Master of Science in Computer Engineering at Luleå Technical university
 - 🐧 Daily driver: CachyOS + Hyprland, Zed, and a lot of Docker
 - ⚽ Allsvenskan and SHL fan, which is how MatchCalendar started
 
@@ -20,7 +20,7 @@ I'm an engineering student at **Luleå University of Technology (LTU)** who like
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 MatchCalendar</h3>
+      <h3> <img src="https://matchcalender.com/favicon.png" width="22" height="22" align="top" /> MatchCalender</h3>
       <p>Subscribe to live, always-updated calendars for your favourite football and hockey teams. Covers Allsvenskan, SHL, Premier League, IIHF, the 2026 World Cup and more.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
@@ -30,11 +30,11 @@ I'm an engineering student at **Luleå University of Technology (LTU)** who like
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
-      <p>🔗 <a href="https://matchcalendar.com">Live site</a> · 📐 <a href="https://github.com/Lukaserikss0n/matchcalendar-showcase">Architecture & showcase</a></p>
+      <p>🔗 <a href="https://matchcalender.com">Live site</a> 
     </td>
     <td width="50%" valign="top">
       <h3>📟 MatchCalendar Desk Display</h3>
-      <p>A physical live-score display on an ESP32-S3 with a 3.5" touch screen. It pulls today's matches from the MatchCalendar API through a dedicated, key-protected device endpoint.</p>
+      <p>A physical live-score display on an ESP32-S3 with a 3.5" touch screen. It pulls today's matches from the MatchCalender API through a dedicated, key-protected device endpoint.</p>
       <p>
         <img src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -53,14 +53,6 @@ I'm an engineering student at **Luleå University of Technology (LTU)** who like
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       </p>
       <p>🌱 Early development</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎛️ Control systems labs</h3>
-      <p>PID controller design for a cruise-control model and a two-tank water level system with anti-windup, plus stability analysis with Bode and Nyquist plots.</p>
-      <p>
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-      </p>
-      <p>🎓 Coursework at LTU</p>
     </td>
   </tr>
 </table>
