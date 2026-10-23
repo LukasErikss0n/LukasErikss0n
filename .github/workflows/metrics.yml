@@ -35,9 +35,9 @@ jobs:
 
           # Commit habits (time of day / day of week)
           plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 30
+          plugin_habits_charts: no
+          plugin_habits_from: 100
+          plugin_habits_days: 14
 
           # Lines added / removed
           plugin_lines: yes
