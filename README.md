@@ -44,7 +44,7 @@ I'm an engineering student at **Luleå University of Technology (LTU)** who like
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 ScanCheck</h3>
+      <h3>ScanCheck</h3>
       <p>Scan a food barcode and check its ingredients against your allergens using Open Food Facts data, with a FastAPI proxy in front of the lookup.</p>
       <p>
         <img src="https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
